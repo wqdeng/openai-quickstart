@@ -1,0 +1,41 @@
+################ ChatBot-Only ################
+User: 详细介绍下字节跳动的工作流平台 Coze
+Assistant: Coze 是字节跳动旗下的一个工作流平台，它旨在帮助团队高效地协作和管理工作任务。下面是关于 Coze 的一些关键特性和功能：
+
+1. **任务管理**：Coze 允许用户创建、分配和跟踪任务，并提供多种方式来查看任务的状态，例如列表或 Kanban 板。
+
+2. **协作工具**：Coze 提供了实时的沟通工具，使团队成员能够轻松交流并保持对项目进展的了解。它支持文字、文件共享和其他类型的媒体传输，以及基于事件的通知。
+
+3. **时间管理**：该平台包含用于跟踪时间支出和资源分配的功能，这对于项目估算和绩效评估至关重要。
+
+4. **自动化流程**：Coze 提供了可自定义的工作流和任务触发器，能够根据特定条件（如任务创建或完成）执行自动化动作，如移动任务状态、发送通知等。
+
+5. **数据分析**：该平台包含用于跟踪项目进展的仪表板和报告功能，这有助于团队成员监测工作效率并了解哪些方面需要改进。
+
+6. **安全性和控制**：Coze 使管理者能够配置用户角色和权限，确保数据和功能访问权受到限制，只对授权人员开放。
+
+7. **便携性和移动端**：Coze 经常被设计为移动优先的产品，这意味着它可以轻松在移动设备上使用，这对于快速检查任务和项目状态、立即回复消息等非常有用。
+
+8. **集成和扩展**：Coze 可以与其他工具和系统集成，例如项目管理软件、云存储服务或身份验证提供商。这让用户能够将 Coze 整合到他们现有的工作流中，尽可能减少切换成本。
+
+9. **安全性和可靠性**：作为字节跳动的一部分，Coze 有着高水平的安全标准和数据保护，这使得它适合处理敏感信息或需要高度安全控制的项目。
+
+10. **持续改进**：像 Coze 这样的现代工作流平台通常会根据用户反馈和市场趋势进行不断的更新和增强，以保持与竞争对手的差距。
+
+Coze 的主要优点在于，它提供了一个可扩展、易于使用的协作环境，使团队能够高效地管理任务和项目。它适合广泛的用途，包括但不限于软件开发、市场营销或出版等领域。
+User: q
+Goodbye!
+
+################ ChatBot + Tool ################
+User: 详细介绍下字节跳动的工作流平台 Coze
+Assistant:
+Assistant: {"query": "Coze byte dance workflow platform", "follow_up_questions": null, "answer": null, "images": ["https://www.testingcatalog.com/content/images/size/w2000/2024/06/screenshot-www.coze.com-2024.06.13-23_28_21.jpg", "https://www.testingcatalog.com/content/images/size/w2400/2024/06/screenshot-www.coze.com-2024.06.13-23_28_32.jpg", "https://www.testingcatalog.com/content/images/size/w2000/2024/02/Screenshot-2024-02-05-at-15.04.50.png", "https://www.testingcatalog.com/content/images/2024/02/Screenshot-2024-02-05-at-13.46.24.png", "https://www.testingcatalog.com/content/images/size/w2400/2024/02/Screenshot-2024-02-05-at-15.33.03.png"], "results": [{"url": "https://kr-asia.com/bytedance-launches-coze-its-new-ai-agent-platform-in-beta", "title": "ByteDance launches Coze, its new AI agent platform, in beta - Kr Asia", "content": "While this ecosystem does not generate new products outright, it enables rapid validation of promising ideas. In the second half of 2023, the team pivoted from chatbot development to workflow automation, positioning Coze as a platform that fosters human-agent collaboration, supported by relevant data. [...] Coze runs on in-house models, including Doubao. It supports the Model Context Protocol (MCP) and integrates with Lark (known domestically as Feishu), particularly its Docs and Sheets applications. Central to its offering is a general-purpose interface augmented by a system of template agents tailored to specific tasks. [...] ### Integrating Coze and Lark to develop new products\n\nThe Coze team approaches product development with a pragmatic philosophy. Rather than attempting to maximize the capabilities of large models at this early stage, its mandate is to solve real-world workflow problems.", "score": 0.8058924, "raw_content": null}, {"url": "https://www.coze.com/", "title": "Coze: Next-Gen AI App Developing Platform", "content": "This workflow is a state-of-the-art SEO article generator designed to elevate your content strategy. By inputting a single target keyword, it intelligently analyzes the search volume, competition intensity, and relevance of this keyword and suggests high-quality related keywords. It then combines this data with top-ranking results from Google Web Search to craft high-quality, keyword-rich articles that are both informative and optimized for search engines!\n\nFree\n\n5.7K copies\n\nImage 4 [...] Latest AI app development platform Build your agents without code and release them across multiple platforms with ready WebSDKs and APIs\n\nQuick Start\n\nTop Templates App Store\n\nImage 2\n\nSEO Article Generator\n\nWorkflow\n\nImage 3\n\nCoze Official [...] 3.2K copies\n\nImage 10\n\nOutreach Email Generator\n\nWorkflow\n\nImage 11\n\nCoze Official\n\nThis workflow can generate high quality outreach email based on the Linkedin URL you provided.\n\nFree\n\n1.5K copies\n\nTerms of Service\n\nPrivacy Policy\n\nManage Cookies\n\nData Processing Addendum\n\nBy clicking \"Got it\", you agree that Coze can store cookies on your device and disclose information in accordance with our Cookies Policy.\n\nGot it", "score": 0.44956237, "raw_content": null}], "response_time": 5.94}
+Assistant: Coze 是字节跳动推出的工作流平台，旨在提供一个使用 AI 技术的工作流管理工具。它支持人类和机器人之间的合作，并将相关数据作为其决策的依据。 Coze 支持多种功能，如模板代理、文档和表格应用，以及对外部系统的集成。
+
+Coze 还提供了一系列预设模板，用于解决特定工作流问题。这些模板可以根据具体需求进行调整和定制。此外，Coze 可以与 Lark（Feishu）集成，利用其文档和表格应用功能来实现更高效的工作流管理。
+
+在 Coze 中，用户可以通过一个通用的接口来创建和管理自己的代理。这些代理可以根据具体需求进行定制，并且可以与其他系统进行集成。此外，Coze 还提供了一系列预设模板，用于解决特定工作流问题。
+
+总的来说，Coze 是一种基于 AI 的工作流管理工具，旨在提高用户的工作效率和质量。它支持人类和机器人之间的合作，并将相关数据作为其决策的依据。
+User: q
+Goodbye!
